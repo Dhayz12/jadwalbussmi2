@@ -1,0 +1,384 @@
+{
+  "app": "Jadwal Pemberangkatan Terminal Tipe A Sukabumi",
+  "version": "V.1.0",
+  "type": "data",
+  "exportedAt": "2026-11-13T16:39:28.510Z",
+  "data": {
+    "buses": [
+      {
+        "id": "b1",
+        "nama": "MGI",
+        "tujuan": "Bandung",
+        "jamMulai": "03:15",
+        "jamSelesai": "20:00",
+        "tarif": 55000,
+        "jenis": "AKDP",
+        "ket": "tiap 20 menit sekali",
+        "tersedia": true
+      },
+      {
+        "id": "b2",
+        "nama": "MGI",
+        "tujuan": "Pelabuhan Ratu",
+        "jamMulai": "05:00",
+        "jamSelesai": "19:00",
+        "tarif": 50000,
+        "jenis": "AKAP",
+        "ket": "bis kadang ada di luar terminal",
+        "tersedia": true
+      },
+      {
+        "id": "b3",
+        "nama": "Hiba Putra",
+        "tujuan": "Bandung",
+        "jamMulai": "02:00",
+        "jamSelesai": "20:00",
+        "tarif": 45000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": false
+      },
+      {
+        "id": "mwf4oxitn4bgm",
+        "nama": "Budiman",
+        "tujuan": "Depok",
+        "jamMulai": "03:00",
+        "jamSelesai": "13:00",
+        "tarif": 50000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf4sdmdhui19",
+        "nama": "Budiman",
+        "tujuan": "Tasik - Banjar",
+        "jamMulai": "08:30",
+        "jamSelesai": "21:30",
+        "tarif": 145000,
+        "jenis": "AKDP",
+        "ket": "Tarif Banjar Rp. 175,000",
+        "tersedia": true
+      },
+      {
+        "id": "mwf4tv7xwkmgx",
+        "nama": "Sahabat",
+        "tujuan": "Cirebon",
+        "jamMulai": "05:00",
+        "jamSelesai": "06:00",
+        "tarif": 150000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf500wlthwo4",
+        "nama": "Marita - Karunia Bakti",
+        "tujuan": "Garut - Singaparna",
+        "jamMulai": "05:00",
+        "jamSelesai": "15:00",
+        "tarif": 120000,
+        "jenis": "AKDP",
+        "ket": "Tarif Garut Rp. 100,000",
+        "tersedia": true
+      },
+      {
+        "id": "mwf51iyde6dio",
+        "nama": "Merdeka",
+        "tujuan": "Pangandaran",
+        "jamMulai": "06:00",
+        "jamSelesai": "06:30",
+        "tarif": 200000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf54z3w0z4jt",
+        "nama": "Luragung",
+        "tujuan": "Cirebon - Kuningan",
+        "jamMulai": "11:00",
+        "jamSelesai": "16:30",
+        "tarif": 170000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf571p8cos7q",
+        "nama": "Laju Utama - Sinar Jaya",
+        "tujuan": "Bekasi",
+        "jamMulai": "03:20",
+        "jamSelesai": "13:30",
+        "tarif": 80000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5ck8twxefc",
+        "nama": "Sinar Jaya",
+        "tujuan": "Cikarang",
+        "jamMulai": "03:00",
+        "jamSelesai": "13:00",
+        "tarif": 75000,
+        "jenis": "AKDP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5jn6ksw2vg",
+        "nama": "Tunggal Daya - Hiba Prima",
+        "tujuan": "Kalideres",
+        "jamMulai": "01:15",
+        "jamSelesai": "12:00",
+        "tarif": 80000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5m8o59domw",
+        "nama": "Laju Utama - Sugih Jaya",
+        "tujuan": "Priuk",
+        "jamMulai": "02:15",
+        "jamSelesai": "02:30",
+        "tarif": 70000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5pxvh8exmx",
+        "nama": "Agra Mas",
+        "tujuan": "Purwantoro",
+        "jamMulai": "13:30",
+        "jamSelesai": "14:00",
+        "tarif": 260000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5rpz9hua5i",
+        "nama": "Rajawali",
+        "tujuan": "Wonogiri",
+        "jamMulai": "13:00",
+        "jamSelesai": "15:00",
+        "tarif": 240000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5tg90mqf3i",
+        "nama": "Budiman",
+        "tujuan": "Jogjakarta",
+        "jamMulai": "13:30",
+        "jamSelesai": "14:00",
+        "tarif": 255000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5vri5hk2qe",
+        "nama": "Lana Jaya - Sugih Jaya - Sinar Remaja",
+        "tujuan": "Kp. Rambutan",
+        "jamMulai": "02:00",
+        "jamSelesai": "13:00",
+        "tarif": 50000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf5ye1pqrlh3",
+        "nama": "Shantika",
+        "tujuan": "Kudus - Jepara",
+        "jamMulai": "12:00",
+        "jamSelesai": "13:00",
+        "tarif": 300000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf61vm4uvtge",
+        "nama": "Transport Xpress (VIP & Premium)",
+        "tujuan": "Pariaman (Padang)",
+        "jamMulai": "06:30",
+        "jamSelesai": "07:00",
+        "tarif": 680000,
+        "jenis": "AKAP",
+        "ket": "Tarif VIP Rp. 500,000",
+        "tersedia": true
+      },
+      {
+        "id": "mwf668clxxfyp",
+        "nama": "MPM (VIP&Premium)",
+        "tujuan": "Pariaman (Padang)",
+        "jamMulai": "06:30",
+        "jamSelesai": "07:00",
+        "tarif": 680000,
+        "jenis": "AKAP",
+        "ket": "Tarif VIP Rp. 650,000",
+        "tersedia": true
+      },
+      {
+        "id": "mwf68zth4am7e",
+        "nama": "Epastar",
+        "tujuan": "Palembang - Jambi",
+        "jamMulai": "08:00",
+        "jamSelesai": "08:30",
+        "tarif": 500000,
+        "jenis": "AKAP",
+        "ket": "Tarif tiket Palembang Rp. 400,000",
+        "tersedia": true
+      },
+      {
+        "id": "mwf6apy5i1d46",
+        "nama": "Sinar Jaya",
+        "tujuan": "Merak",
+        "jamMulai": "06:00",
+        "jamSelesai": "14:00",
+        "tarif": 100000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf6c4ilgkfct",
+        "nama": "TAM",
+        "tujuan": "Pekanbaru",
+        "jamMulai": "08:00",
+        "jamSelesai": "08:30",
+        "tarif": 750000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf6dr1iza2vm",
+        "nama": "Agra Mas",
+        "tujuan": "Lebak Bulus",
+        "jamMulai": "03:00",
+        "jamSelesai": "13:00",
+        "tarif": 60000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      },
+      {
+        "id": "mwf6fqfhiwgq8",
+        "nama": "Hiba Prima",
+        "tujuan": "Jogjakarta",
+        "jamMulai": "12:00",
+        "jamSelesai": "13:00",
+        "tarif": 220000,
+        "jenis": "AKAP",
+        "ket": "",
+        "tersedia": true
+      }
+    ],
+    "org": [
+      {
+        "role": "Kepala Terminal",
+        "name": "Dedi Supriadi, S.STP"
+      },
+      {
+        "role": "Komandan Regu",
+        "name": "Asep Saepudin"
+      },
+      {
+        "role": "PPNS",
+        "name": "Rudi Hartono, S.H."
+      },
+      {
+        "role": "Koordinator",
+        "name": "Neng Siti Aminah"
+      },
+      {
+        "role": "Staff TU",
+        "name": "Dewi Lestari, A.Md."
+      },
+      {
+        "role": "Petugas Pintu Masuk",
+        "name": "Iwan Setiawan"
+      },
+      {
+        "role": "Petugas Rampcheck",
+        "name": "Agus Salim"
+      },
+      {
+        "role": "Petugas Pintu Keluar",
+        "name": "Hendra Gunawan"
+      },
+      {
+        "role": "Petugas Keamanan",
+        "name": "Ujang Suryana"
+      },
+      {
+        "role": "Petugas Kebersihan",
+        "name": "Endang Kurnia"
+      }
+    ],
+    "news": [
+      {
+        "id": "n1",
+        "badge": "INFO",
+        "date": "2026-11-12",
+        "title": "Penyesuaian Jadwal Keberangkatan Libur Nasional",
+        "body": "Sehubungan dengan meningkatnya volume penumpang pada libur nasional, beberapa jadwal keberangkatan mengalami penyesuaian. Penumpang diimbau tiba di terminal minimal 30 menit sebelum keberangkatan."
+      },
+      {
+        "id": "n2",
+        "badge": "UPDATE",
+        "date": "2026-11-10",
+        "title": "Pembaruan Sistem Tiket Online Terminal",
+        "body": "Sistem pembelian tiket online kini terintegrasi dengan loket terminal. Pembayaran dapat dilakukan secara nontunai melalui QRIS di seluruh loket resmi."
+      },
+      {
+        "id": "n3",
+        "badge": "TIPS",
+        "date": "2026-11-08",
+        "title": "Tips Aman Bepergian dengan Bus",
+        "body": "Pastikan tiket sesuai tujuan, simpan barang berharga di tempat aman, dan kenali petugas resmi terminal. Laporkan aktivitas mencurigakan ke pos keamanan."
+      }
+    ],
+    "profile": {
+      "photo": null,
+      "name": "Yudha Samudra, A.M.d",
+      "nip": "198508122025211024",
+      "status": "PPPK (Golongan VII)",
+      "app": "Jadwal Pemberangkatan V.1.0",
+      "dev": "Samudra Tech"
+    },
+    "ticket": {
+      "waNumber": "",
+      "buses": [
+        {
+          "name": "Rajawali",
+          "price": 120000
+        },
+        {
+          "name": "Shantika",
+          "price": 150000
+        },
+        {
+          "name": "Epastar",
+          "price": 175000
+        },
+        {
+          "name": "Gunung Harta",
+          "price": 165000
+        },
+        {
+          "name": "HIBA PRIMA",
+          "price": 200000
+        }
+      ]
+    },
+    "updatedAt": 1794587968510
+  }
+}
