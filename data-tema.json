@@ -1,0 +1,85 @@
+{
+  "app": "Jadwal Pemberangkatan Terminal Tipe A Sukabumi",
+  "version": "V.1.0",
+  "type": "theme",
+  "exportedAt": "2026-11-15T08:52:56.283Z",
+  "data": {
+    "theme": {
+      "splash": {
+        "bg": "#071f3f",
+        "accent": "#3ea0ff",
+        "title": "welcome",
+        "subtitle": "Sistem Jadwal Pemberangkatan Bus",
+        "by": "Terminal Tipe A  K.H  Ahmad Sanusi Sukabumi",
+        "duration": 3,
+        "barStyle": "shine"
+      },
+      "login": {
+        "bg": "#e8eef7",
+        "primary": "#1e5aa8",
+        "title": "Terminal Tipe A  K.H Ahmad Sanusi Sukabumi",
+        "subtitle": ""
+      },
+      "dashboard": {
+        "headerBg": "#123f7a",
+        "headerText": "#ffffff",
+        "title": "Jadwal Pemberangkatan Bus Terminal Tipe A KH. Ahmad Sanusi Sukabumi",
+        "logoLeft": null,
+        "logoRight": null,
+        "logoLeftScale": 1,
+        "logoRightScale": 1.15
+      },
+      "marquee": {
+        "text": "Selamat datang di Terminal Tipe A Sukabumi — Utamakan keselamatan, patuhi rambu, jaga kebersihan, dan tiba lebih awal sebelum jadwal keberangkatan.",
+        "color": "#1e5aa8",
+        "bg": "#dbe8f8",
+        "speed": 22
+      },
+      "info": {
+        "text": "Perhatian, jadwal sewaktu-waktu bisa berubah tergantung kondisi lalu lintas dan operasional armada.",
+        "color": "#8a5a00",
+        "bg": "#fff5d9"
+      },
+      "nav": {
+        "color": "#8ba0b8",
+        "activeColor": "#1e5aa8",
+        "items": [
+          {
+            "view": "home",
+            "label": "Home",
+            "icon": "fa-house",
+            "color": ""
+          },
+          {
+            "view": "organisation",
+            "label": "Organisasi",
+            "icon": "fa-sitemap",
+            "color": ""
+          },
+          {
+            "view": "print",
+            "label": "Cetak",
+            "icon": "fa-print",
+            "color": ""
+          },
+          {
+            "view": "news",
+            "label": "News",
+            "icon": "fa-newspaper",
+            "color": ""
+          },
+          {
+            "view": "profile",
+            "label": "Profile",
+            "icon": "fa-user",
+            "color": ""
+          }
+        ]
+      },
+      "typography": {
+        "font": "Plus Jakarta Sans",
+        "scale": 1.1
+      }
+    }
+  }
+}
